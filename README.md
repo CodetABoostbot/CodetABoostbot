@@ -7,7 +7,7 @@
 ╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░
 
 Hello community and GitHub user. My name is CʀᴇᴀᴛᴇᴅABᴏᴏsᴛʙᴏᴛ and i created a working Discord boost bot with python 2022/2023.
-Im 16 years old and very active on my Discord (BananenSaft#0001 or www.youtube.com#0923)! Im using Discord and Discord API +
+Im 27 years old and very active on my Discord (BananenSaft#0001 or www.youtube.com#0923)! Im using Discord and Discord API +
 Python since 2021 and scripted some Bots with my friends and alone. Im actually german.
 
 𝐇𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐭𝐡𝐞 𝐁𝐨𝐭:
